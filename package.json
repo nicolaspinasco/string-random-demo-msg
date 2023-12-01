@@ -1,0 +1,16 @@
+{
+  "name": "string-random-demo-msg",
+  "version": "1.0.0",
+  "description": "Random demo string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nicolas Pinasco",
+  "license": "MIT",
+  "bin": {
+    "string-random-demo-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
