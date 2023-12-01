@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Nicolas Pinasco",
+  "author": "Nicolas",
   "license": "MIT",
   "bin": {
     "string-random-demo-msg": "./bin/global.js"
